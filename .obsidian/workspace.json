@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "f19027d52cd6496d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e9f31c216784eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6c3fcf6ac839a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b8ff6ada750135f",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ff022b44641d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0331787cfe00ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42e4247cfc7e3b20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26177f56663b2ba7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "272cef8104b20d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4f61c16b000b2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa4ebfee04b9d8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programación Orientada a Objetos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88bb9fb9de681eea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programación Orientada a Objetos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5283052e2cb01a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "221e76ae7193c6bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programación Orientada a Objetos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5b6c3fcf6ac839a0",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "Programación Orientada a Objetos.md",
+    "2023-12-18.md",
+    "Sin título.md"
+  ]
+}
