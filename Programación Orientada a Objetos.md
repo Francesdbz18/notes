@@ -38,3 +38,6 @@ Modificadores de métodos:
 - public
 - orivate
 - void
+
+Referenciar objetos:
+objname.methodname(value);
