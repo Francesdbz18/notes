@@ -44,3 +44,6 @@ objname.methodname(value);
 
 Herencia:
 Uso de palabra reservada: extends ParentClassName
+
+Borrar objetos:
+Igualar a null y System.gc();
