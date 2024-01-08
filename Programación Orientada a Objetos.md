@@ -42,3 +42,5 @@ Modificadores de métodos:
 Referenciar objetos:
 objname.methodname(value);
 
+Herencia:
+Uso de palabra reservada: extends ParentClassName
