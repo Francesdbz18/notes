@@ -36,8 +36,9 @@ Creación de métodos:
 
 Modificadores de métodos:
 - public
-- orivate
+- private
 - void
 
 Referenciar objetos:
 objname.methodname(value);
+
