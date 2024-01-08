@@ -9,3 +9,10 @@ Movilidad funcional:
 Traslados: Impugnables en 20 días hábiles. Extinción de hasta 12 mensualidades (sit. leg. de desempleo).
 
 Modificación sustancial: Extinción de hasta 9 mensualidades (situación legal de desempleo).
+
+Suspensión del contrato de trabajo: 
+1. Con o sin derecho a reserva.
+2. Excedencias.
+3. RETOP: Razones económicas, técnicas, organizativas o de producción.
+4. Por fuerza mayor temporal.
+5. Por motivos familiares.
