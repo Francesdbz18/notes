@@ -16,3 +16,7 @@ Suspensión del contrato de trabajo:
 3. RETOP: Razones económicas, técnicas, organizativas o de producción.
 4. Por fuerza mayor temporal.
 5. Por motivos familiares.
+
+Extinción por fallecimiento: 
+- Si es por muerte natural, el empresario está obligado a abonar una indemnización equivalente a 15 días de salario.
+- Si se trata de un accidente de trabajo o enfermedad profesional, se debe indemnizar con 6 meses de la base reguladora de la pensión de viudedad para el cónyuge, y un mes para cada huérfano.
