@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOL Tema 5.md",
+                "file": "Programación Orientada a Objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2bbf0ff7480d9c5f",
+  "active": "5b6c3fcf6ac839a0",
   "lastOpenFiles": [
     "Programación Orientada a Objetos.md",
     "FOL Tema 5.md",
