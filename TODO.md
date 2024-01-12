@@ -19,6 +19,6 @@ Clase FECHA:
 - Día
 - Mes
 - Año
-- Método para comprobar que es correcta (boolean)
-- Método para comprobar que el año es bisiesto.
+- Método para comprobar que es correcta (boolean).
+- Método para comprobar que el año es bisiesto (boolean).
 - Método que aumenta un día.
