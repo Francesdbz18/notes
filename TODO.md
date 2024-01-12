@@ -14,3 +14,11 @@ Programa principal (Main.java):
 	- Salir del programa.
 - Al subir una vez de la frecuencia máxima, volver a la mínima.
 - Al bajar una vez de la frecuencia mínima, volver a la máxima.
+
+Clase FECHA:
+- Día
+- Mes
+- Año
+- Método para comprobar que es correcta (boolean)
+- Método para comprobar que el año es bisiesto.
+- Método que aumenta un día.
