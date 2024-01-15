@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62fa02222f128c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,10 +183,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2bbf0ff7480d9c5f",
+  "active": "62fa02222f128c7f",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos.md",
+    "conflict-files-obsidian-git.md",
     "TODO.md",
+    "Programación Orientada a Objetos.md",
     "FOL Tema 5.md",
     "Sin título 1",
     "Sin título",
