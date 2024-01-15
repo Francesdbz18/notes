@@ -22,3 +22,5 @@ Clase FECHA:
 - Método para comprobar que es correcta (boolean)
 - Método para comprobar que el año es bisiesto.
 - Método que aumenta un día.
+
+Tarea obligatoria: Radio
