@@ -22,3 +22,5 @@ Extinción por fallecimiento:
 - Si se trata de un accidente de trabajo o enfermedad profesional, se debe indemnizar con 6 meses de la base reguladora de la pensión de viudedad para el cónyuge, y un mes para cada huérfano.
 Extinción por muerte, jubilación o incapacidad del empresario: La persona trabajadora tiene derecho a una indemnización de un mes de salario.
 
+Despido por causas objetivas: 
+
