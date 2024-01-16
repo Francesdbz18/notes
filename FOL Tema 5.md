@@ -23,4 +23,5 @@ Extinción por fallecimiento:
 Extinción por muerte, jubilación o incapacidad del empresario: La persona trabajadora tiene derecho a una indemnización de un mes de salario.
 
 Despido por causas objetivas: 
+- Amortización de puestos de trabajo por RETOP de número inferior al despido colectivo: Existen causas económicas si de los resultados se desprende una situación económica negativa como pérdidas actuales o previstas, o disminución persistente de los ingresos o ventas que se produzcan durante tres trimestres consecutivos, comparados con los mismos tres trimestres del año anterior. 
 
