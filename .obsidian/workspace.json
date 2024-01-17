@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "TODO (programación).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "TODO (programación).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "TODO (programación).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "TODO (programación).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de Datos.md"
+                "file": "TODO (programación).md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "2df79765d73ae01e",
   "lastOpenFiles": [
-    "FOL Tema 5.md",
-    "TODO.md",
     "Bases de Datos.md",
+    "FOL Tema 5.md",
+    "TODO (programación).md",
     "conflict-files-obsidian-git.md",
     "Programación Orientada a Objetos.md",
     "Sin título 1",
