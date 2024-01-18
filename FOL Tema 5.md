@@ -28,3 +28,4 @@ Despido por causas objetivas:
 Juzgado de lo Laboral = Juzgado de lo Social.
 
 Derecho procesal social: 
+Acto de conciliación previa: Ante un despido. si no se está de acuerdo, se debe presentar una demanda en el juzgado de lo Social, en el plazo de 20 días hábiles. Previamente, se debe haber acudido al SMAC (Servicio de Mediación, Arbitraje y Conciliación) para intentar llegar a un acuerdo con la empresa. El tribunal supremo está interpretando que el plazo de 20 días es sólo para poner la demanda, y no para el SMAC, así que es posible ir al SMAC después de poner la demanda. Por lo que, de presentar la demanda sin ir al SMAC, el juzgado le comunicará que dispone de 15 días para que presente la papeleta de conciliación.
