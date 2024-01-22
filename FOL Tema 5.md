@@ -41,3 +41,10 @@ Juicio oral: Carga de la prueba al empresario.
 Despido improcedente: Si es un trabajador normal, el empresario elige si despedir o readmitir, y si es un representante de los trabajadores lo elige el propio trabajador.
 - Readmitido: Salarios de tramitación.
 - Despedido: 33 días/año máx. 24 mensualidades
+
+Despido nulo: Vulnerado derecho fundamental. Readmisión obligatoria.
+
+Despido procedente es cuando el juez da la razón al empresario. El despido disciplinario se considera procedente si queda acreditado el incumplimiento alegado por el empresario en su carta de despido. En el despido por causas objetivas, se considera procedente si se acredita la causa en que se fundamentó y se cumplen los requisitos formales.
+
+Despido improcedente: es cuando no quedan demostrados los motivos alegados por el empresario en el despido. En el caso del despido objetivo, si no se han cumplido los requisitos de forma. El empresario podrá optar, en el plazo de 5 días, por lo siguiente:
+- 
