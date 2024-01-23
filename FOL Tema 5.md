@@ -47,4 +47,8 @@ Despido nulo: Vulnerado derecho fundamental. Readmisión obligatoria.
 Despido procedente es cuando el juez da la razón al empresario. El despido disciplinario se considera procedente si queda acreditado el incumplimiento alegado por el empresario en su carta de despido. En el despido por causas objetivas, se considera procedente si se acredita la causa en que se fundamentó y se cumplen los requisitos formales.
 
 Despido improcedente: es cuando no quedan demostrados los motivos alegados por el empresario en el despido. En el caso del despido objetivo, si no se han cumplido los requisitos de forma. El empresario podrá optar, en el plazo de 5 días, por lo siguiente:
-- 
+- Abonar una indemnización de 33 días de salario por año trabajado, prorrateándose por meses los periodos inferiores a un año, con un máximo de 24 mensualidades.
+- Readmitir al trabajador abonándole los salarios de tramitación desde la fecha del despido hasta la fecha de la notificación de la sentencia.
+Si el trabajador es representante de los trabajadores, es decir, delegado de personal o miembro del comité de empresa, el que elige entre la readmisión o seguir con el despido es el trabajador.
+
+Despido nulo: Es nulo el despido que tenga como móvil alguna de las causas de discriminación previstas en la constitución y en la ley, o aquel que se produzca con violación de los derechos fundamentales y libertades públicas. También será nulo el despido durante la suspensión del contrato por nacimiento y cuidado de menor, el de las trabajadoras embarazadas, y el de los trabajadores que soliciten o disfruten del permiso de lactancia, de las trabajadoras víctimas de violencia de género que reduzcan o reordenen su tiempo de trabajo, que cambien de centro de trabajo o que se acojan a la movilidad geográfica. (also: excendencia..) Se debe readmitir al trabajador y abonarle los salarios de tramitación, es decir, desde la fecha del despido hasta la notificación de la sentencia.
