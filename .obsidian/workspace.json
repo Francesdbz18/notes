@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBDD furbo.md",
+                "file": "Bases de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBDD furbo.md",
+                "file": "Bases de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBDD furbo.md",
+                "file": "Bases de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBDD furbo.md"
+                "file": "Bases de Datos.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "d1a9c18b377d6f27",
   "lastOpenFiles": [
-    "Bases de Datos.md",
     "BBDD furbo.md",
+    "Bases de Datos.md",
     "FOL Tema 5.md",
     "TODO (programación).md",
     "conflict-files-obsidian-git.md",

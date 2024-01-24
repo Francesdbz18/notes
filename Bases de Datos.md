@@ -16,9 +16,9 @@ Restricciones de tipo 2: una por una o varias columnas. Cláusulas:
 - UNIQUE
 
 MR 4.3: 
-PARTIDOS (cod_partido*, fecha_partido, goles_local, goles_visita)
-JUEGAN (cod_partido*, cod_equipo*, local_visitante)
-EQUIPOS (cod_equipo*, nombre, estadio, ciudad, cod_entrenador**)
-ENTRENADORES cod_entrenador*, nombre, apellido, categoría, nacionalidad, fecha_nac)
+PARTIDOS- (cod_partido*, fecha_partido, goles_local, goles_visita)
+JUEGAN- (cod_partido*, cod_equipo*, local_visitante)
+EQUIPOS- (cod_equipo*, nombre, estadio, ciudad, cod_entrenador**)
+ENTRENADORES- cod_entrenador*, nombre, apellido, categoría, nacionalidad, fecha_nac)
 JUGADORES (cod_jugadores*, nombre, apellido, suspendido, posición, venta, lesionado, cod_equipo**)
 GOLES (cod_jugadores**, cod_partido**, minuto, cod_gol*, descripción)
