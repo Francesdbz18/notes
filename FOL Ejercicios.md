@@ -1,1 +1,7 @@
-4. 
+4. Denunciar. Sí, si la empresa se declara en quiebra y carece del capital para asumir los sueldos.
+5. Se trata de movilidad geográfica, ya que el traslado es permanente e implica un cambio de localidad de residencia. Se puede aceptar el traslado, extinguir el contrato o impugnar el traslado. 
+6. Sería un despido colectivo. Antes de proceder, se debe tener comunicación con la Autoridad Laboral y la misma debe recabar un informe. Tras el fin de las negociaciones, la empresa debe informar del acuerdo. 
+7. Se trata de movilidad geográfica, en el caso del primer técnico un desplazamiento, y en el segundo un traslado.
+8. Es un despido por causas objetivas.
+9. En caso de ser por necesidades urgentes e imprevisibles, y por un periodo de tiempo imprescindible, puede tener movilidad vertical descendiente. 
+10. 
