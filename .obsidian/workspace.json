@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "FOL Tema 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6375107c019ed770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FOL Ejercicios.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "FOL Ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "FOL Ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de Datos.md"
+                "file": "FOL Ejercicios.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d1a9c18b377d6f27",
+  "active": "6375107c019ed770",
   "lastOpenFiles": [
-    "BBDD furbo.md",
-    "Bases de Datos.md",
     "FOL Tema 5.md",
+    "FOL Ejercicios.md",
+    "Bases de Datos.md",
+    "BBDD furbo.md",
     "TODO (programación).md",
     "conflict-files-obsidian-git.md",
     "Programación Orientada a Objetos.md",
