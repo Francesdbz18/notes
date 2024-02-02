@@ -22,3 +22,11 @@ EQUIPOS- (cod_equipo*, nombre, estadio, ciudad, cod_entrenador**)
 ENTRENADORES- cod_entrenador*, nombre, apellido, categoría, nacionalidad, fecha_nac)
 JUGADORES (cod_jugadores*, nombre, apellido, suspendido, posición, venta, lesionado, cod_equipo**)
 GOLES (cod_jugadores**, cod_partido**, minuto, cod_gol*, descripción)
+
+Tema 5: Lenguaje DML
+
+Inserción de datos:
+1. INSERT INTO tablename(attr1, attr2...)
+	VALUES (valueattr1, valueattr2...)
+2. INSERT INTO tablename (valueattr1, valueattr2...) [inserta en orden]
+3. 
