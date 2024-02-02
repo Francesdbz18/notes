@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5519b682782fcbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOL Ejercicios.md",
+                "file": "SSII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOL Ejercicios.md",
+                "file": "SSII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOL Ejercicios.md"
+                "file": "SSII.md"
               }
             }
           }
@@ -183,17 +195,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6375107c019ed770",
+  "active": "e5519b682782fcbd",
   "lastOpenFiles": [
-    "FOL Tema 5.md",
     "FOL Ejercicios.md",
+    "SSII.md",
+    "Sin título",
+    "FOL Tema 5.md",
     "Bases de Datos.md",
     "BBDD furbo.md",
     "TODO (programación).md",
     "conflict-files-obsidian-git.md",
     "Programación Orientada a Objetos.md",
     "Sin título 1",
-    "Sin título",
     "2023-12-18.md",
     "Sin título.canvas"
   ]
