@@ -29,4 +29,7 @@ Inserción de datos:
 1. INSERT INTO tablename(attr1, attr2...)
 	VALUES (valueattr1, valueattr2...)
 2. INSERT INTO tablename (valueattr1, valueattr2...) [inserta en orden]
-3. 
+
+1. DELETE: borrar registros
+2. TRUNCATE: vaciar tablas
+3. DROP: borrar tablas
