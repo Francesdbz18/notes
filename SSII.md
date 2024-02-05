@@ -1,1 +1,0 @@
-sudo ch crt nameuser namegroup (14)

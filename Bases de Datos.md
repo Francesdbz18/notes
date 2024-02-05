@@ -33,3 +33,8 @@ Inserción de datos:
 1. DELETE: borrar registros
 2. TRUNCATE: vaciar tablas
 3. DROP: borrar tablas
+
+useful shit for pokemondb
+https://github.com/brianr852/Pokemon-Database
+https://github.com/nachosandres/database
+https://github.com/teamdandelion/PokemonSQLTutorial?tab=readme-ov-file
