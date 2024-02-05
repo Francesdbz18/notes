@@ -30,3 +30,20 @@ Elecciones de representantes:
 - Pueden convocar elecciones las organizaciones sindicales y los trabajadores del centro por acuerdo mayoritario acreditado mediante un acta de reunión. 
 - Quién puede ser elegido: Trabajadores de la empresa mayores de 18 años y con una antigüedad de, al menos, 6 meses. 
 - Quién puede elegir: Trabajadores de la empresa mayores de 16 años y con una antigüedad de, al menos, 1 mes.
+>PREGUNTA EXAMEN: ELEGIBLE Y ELECTOR
+
+Representación colectiva sindical: 
+- Derechos: A fundar sindicatos, a afiliarse o no, a elegir sindicato. 
+- Quién puede afiliarse a un sindicato: Trabajadores por cuenta ajena, parados, trabajadores de la administración pública, jubilados y trabajadores por cuenta propia que no tengan trabajadores a su servicio. 
+- Excluidos del derecho de afiliación a un sindicato: Miembros de las Fuerza Armadas y Guardia Civil, jueces y fiscales mientras se hallen en activo.
+- La Policia puede afiliarse pero a sus propios sindicatos.
+>UN AUTÓNOMO AUNQUE TENGA UN TRABAJADOR NO PUEDE AFILIARSE.  PREGUNTA EXAMEN
+
+La huelga: Es el cese temporal de la prestación de servicios.
+- Efectos: El contrato de trabajo queda en suspenso, el trabajador no cobra ni su salario, ni la parte proporcional de pagas extras, domingos y festivos. Queda en suspenso la obligación de cotizar a la seguridad social, el empresario no puede sustituir a los huelguistas y los días de huelga no pueden ser descontados de las vacaciones.
+- Huelgas ilícitas:
+	- Las que se inicien o sostengan por motivos políticos, o con cualquier otra finalidad ajena al interés profesional de los trabajadores afectados.
+	- Las huelgas de solidaridad o apoyo.
+	- Las huelgas rotatorias.
+	- Las huelgas de celo.
+	- Las que pretendan alterar lo pactado en un convenio.
