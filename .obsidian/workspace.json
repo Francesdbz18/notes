@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDM práctica.md",
+                "file": "Bases de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDM práctica.md",
+                "file": "Bases de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDM práctica.md",
+                "file": "Bases de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDM práctica.md"
+                "file": "Bases de Datos.md"
               }
             }
           }
@@ -221,12 +221,12 @@
   },
   "active": "2d012df7ca4eb51f",
   "lastOpenFiles": [
-    "FOL Tema 6.md",
-    "LDM práctica.md",
-    "FOL Tema 5.md",
-    "Bases de Datos.md",
-    "Programación Orientada a Objetos.md",
     "FOL Ejercicios.md",
+    "FOL Tema 5.md",
+    "FOL Tema 6.md",
+    "Programación Orientada a Objetos.md",
+    "LDM práctica.md",
+    "Bases de Datos.md",
     "SQL.md",
     "TODO (programación).md",
     "SSII.md",
