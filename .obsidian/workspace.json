@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2df79765d73ae01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de Datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a9c18b377d6f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOL Tema 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6375107c019ed770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOL Ejercicios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5519b682782fcbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Orientada a Objetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c633f57d57bb2469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de Datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd2243df5738932a",
+            "id": "2d012df7ca4eb51f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2d012df7ca4eb51f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases de Datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "FOL Tema 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de Datos.md",
+                "file": "FOL Tema 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de Datos.md"
+                "file": "FOL Tema 6.md"
               }
             }
           }
@@ -221,12 +148,12 @@
   },
   "active": "2d012df7ca4eb51f",
   "lastOpenFiles": [
+    "Bases de Datos.md",
     "FOL Ejercicios.md",
     "FOL Tema 5.md",
     "FOL Tema 6.md",
     "Programación Orientada a Objetos.md",
     "LDM práctica.md",
-    "Bases de Datos.md",
     "SQL.md",
     "TODO (programación).md",
     "SSII.md",

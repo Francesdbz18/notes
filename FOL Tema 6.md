@@ -47,3 +47,14 @@ La huelga: Es el cese temporal de la prestación de servicios.
 	- Las huelgas rotatorias.
 	- Las huelgas de celo.
 	- Las que pretendan alterar lo pactado en un convenio.
+
+Cierre patronal: Consiste en la suspensión colectiva del trabajo y del cierre del centro laboral por iniciativa del empresario. Sólo se puede realizar en caso de:
+- Huelga. 
+- Peligro notorio de violencia para las personas o daños graves para las cosas.
+- Ocupación ilegal del centro de trabajo o de cualquiera de sus dependencias.
+- O que el volumen de inasistencia o las irregularidades en el trabajo impidan gravemente el proceso normal de producción.
+
+MÉTODOS EXTRAJUDICIALES DE RESOLUCIÓN DE CONFLICTOS
+- CONCILIACIÓN: Las partes tratan de llegar a un acuerdo ante un 3º imparcial, el conciliador, que simplemente les exhorta a llegar a un acuerdo, ni resuelve ni propone. (SMAC).
+- MEDIACIÓN: El mediador, presenta informaciones y propuestas de solución no vinculantes; no resuelve el conflicto sólo facilita la negociación.
+- ARBITRAJE: Las partes en conflicto acuerdan voluntariamente someter sus controversias a la decisión de un tercero neutral y aceptan la solución que dicte, el laudo arbitral es de obligado cumplimiento.
