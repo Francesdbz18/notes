@@ -1,0 +1,1 @@
+Situación asimilada al alta: 
