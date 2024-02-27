@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f64c154edb33675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOL/FOL Tema 7.md",
+                "file": "SSII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOL/FOL Tema 7.md",
+                "file": "SSII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOL/FOL Tema 7.md"
+                "file": "SSII.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d012df7ca4eb51f",
+  "active": "0f64c154edb33675",
   "lastOpenFiles": [
-    "FOL/FOL Tema 5.md",
     "FOL/FOL Tema 7.md",
+    "SSII.md",
+    "Untitled",
+    "FOL/FOL Tema 5.md",
     "Bases de Datos.md",
     "FOL",
     "FOL/FOL Ejercicios.md",
