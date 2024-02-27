@@ -11,3 +11,5 @@ Se recibe el 100% de la base reguladora. Los requisitos para tener derecho a est
 	- Mayor de 26 años: se exige 180 días en los últimos 7 años o 360 días en toda su vida laboral.
 
 Incap temporal: duración de 365 dias prorrogables por otros 180 si se presume que puede haber curación.
+
+https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/duracion-prestacion-contributiva.html
