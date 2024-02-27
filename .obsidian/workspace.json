@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSII.md",
+                "file": "FOL/FOL Tema 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSII.md",
+                "file": "FOL/FOL Tema 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSII.md",
+                "file": "FOL/FOL Tema 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSII.md"
+                "file": "FOL/FOL Tema 7.md"
               }
             }
           }
@@ -171,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f0331787cfe00ce",
+  "active": "22fafbeb99f82aa7",
   "lastOpenFiles": [
+    "FOL/FOL Tema 6.md",
     "FOL/FOL Tema 7.md",
     "SSII.md",
     "Untitled",
@@ -180,12 +181,10 @@
     "Bases de Datos.md",
     "FOL",
     "FOL/FOL Ejercicios.md",
-    "FOL/FOL Tema 6.md",
     "Programación Orientada a Objetos.md",
     "LDM práctica.md",
     "SQL.md",
     "TODO (programación).md",
-    "SSII.md",
     "BBDD furbo.md",
     "Sin título",
     "conflict-files-obsidian-git.md",

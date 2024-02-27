@@ -10,3 +10,4 @@ Se recibe el 100% de la base reguladora. Los requisitos para tener derecho a est
 	- Entre 21 y 26 años: se exige 90 días en los 7 años previos, o 180 días en toda su vida laboral.
 	- Mayor de 26 años: se exige 180 días en los últimos 7 años o 360 días en toda su vida laboral.
 
+Incap temporal: duración de 365 dias prorrogables por otros 180 si se presume que puede haber curación.
