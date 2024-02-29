@@ -13,3 +13,5 @@ Se recibe el 100% de la base reguladora. Los requisitos para tener derecho a est
 Incap temporal: duración de 365 dias prorrogables por otros 180 si se presume que puede haber curación.
 
 https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/duracion-prestacion-contributiva.html
+
+Situación asimilada al alta: denunciar a la AL y se considera como tal. Meses cuentan como cotizados.0
