@@ -37,7 +37,7 @@ Representación colectiva sindical:
 - Quién puede afiliarse a un sindicato: Trabajadores por cuenta ajena, parados, trabajadores de la administración pública, jubilados y trabajadores por cuenta propia que no tengan trabajadores a su servicio. 
 - Excluidos del derecho de afiliación a un sindicato: Miembros de las Fuerza Armadas y Guardia Civil, jueces y fiscales mientras se hallen en activo.
 - La Policia puede afiliarse pero a sus propios sindicatos.
->UN AUTÓNOMO AUNQUE TENGA UN TRABAJADOR NO PUEDE AFILIARSE.  PREGUNTA EXAMEN
+>UN AUTÓNOMO QUE TENGA AL MENOS UN TRABAJADOR NO PUEDE AFILIARSE.  PREGUNTA EXAMEN
 
 La huelga: Es el cese temporal de la prestación de servicios.
 - Efectos: El contrato de trabajo queda en suspenso, el trabajador no cobra ni su salario, ni la parte proporcional de pagas extras, domingos y festivos. Queda en suspenso la obligación de cotizar a la seguridad social, el empresario no puede sustituir a los huelguistas y los días de huelga no pueden ser descontados de las vacaciones.

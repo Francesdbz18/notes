@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOL/FOL Tema 7.md",
+                "file": "FOL/FOL Tema 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOL/FOL Tema 7.md",
+                "file": "FOL/FOL Tema 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOL/FOL Tema 7.md",
+                "file": "FOL/FOL Tema 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOL/FOL Tema 7.md"
+                "file": "FOL/FOL Tema 6.md"
               }
             }
           }
@@ -171,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f0331787cfe00ce",
+  "active": "22fafbeb99f82aa7",
   "lastOpenFiles": [
+    "FOL/FOL Tema 7.md",
     "BBDD/pokemon (1) (1).sql",
     "BBDD/futbol.sql",
     "BBDD/creacion_tablas.sql",
@@ -182,7 +183,6 @@
     "BBDD/53.sql",
     "BBDD",
     "BBDD/Bases de Datos.md",
-    "FOL/FOL Tema 7.md",
     "FOL/FOL Tema 6.md",
     "SSII.md",
     "Untitled",
@@ -194,7 +194,6 @@
     "SQL.md",
     "TODO (programación).md",
     "BBDD furbo.md",
-    "Sin título",
     "conflict-files-obsidian-git.md",
     "2023-12-18.md",
     "Sin título.canvas"
