@@ -1,0 +1,20 @@
+insert into entrenadores values (00001,		'Carlo',	'Ancelotti', '1', 'italiano' ,'1960/12/01' )
+insert into entrenadores values (00002,		'Albert',	'Conrat', '2', 'Japonés' ,'1970-03-05' )
+insert into entrenadores (cod_entrenador, nombre, apellido, fecha_nacimiento, categoría, nacionalidad)
+values (00004,		'Manuel',	'Suarez',	'1969-02-09',		'2', 'Español')
+values (00005,		'Cholo',	'Simeone',	'1974-10-06',		'1', 'Argentino')
+values (00006,		'Quique',	'Burgos',	'1956-11-02',		'2', 'Argentino')
+insert into equipos (cod_equipo, nombre, estadio, ciudad, cod_entrenador)
+values(001,	'Real Madrid',	'Santiago Bernabeu',	'Madrid', 1)
+insert into jugadores (cod_jugadores, nombre, apellido, posición, venta, suspendido, lesionado, cod_equipo) 
+values(00001,	'Cristiano',	'Ronaldo',	'Ext##o izquierdo',	'1',	'n',		'n', 1)
+insert into goles (cod_gol, cod_partido, cod_jugadores)
+values (2,	00001,		00002)
+insert into juegan (cod_partido, cod_equipo, local_visitante)
+values (00001,		001,		'local')
+
+1 Alfreds Futterkiste Maria Anders Obere Str. 57 Berlin 12.209 Germany
+2 Ana Trujillo Emparedados y helac. Ana Trujillo Avda. de la Constitución 2222 México DF 5021 Mexico
+3 Antonio Moreno Taqueria Antonio Moreno Mataderos 2312 México DF. 5.023 Mexico
+4 Around the Horn Thomas Hardy 120 Hanover Sq London 11.234 UK
+5 Berglunds snabbkop Christina Berglund Berguvsvägen 8 Lulea 95.822 Sweden

@@ -171,9 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22fafbeb99f82aa7",
+  "active": "7f0331787cfe00ce",
   "lastOpenFiles": [
-    "Bases de Datos.md",
+    "BBDD/pokemon (1) (1).sql",
+    "BBDD/futbol.sql",
+    "BBDD/creacion_tablas.sql",
+    "BBDD/creacionpub.sql",
+    "BBDD/ayayyayaay.txt",
+    "BBDD/cadenatiendas4.6.sql",
+    "BBDD/53.sql",
+    "BBDD",
+    "BBDD/Bases de Datos.md",
     "FOL/FOL Tema 7.md",
     "FOL/FOL Tema 6.md",
     "SSII.md",
@@ -188,7 +196,6 @@
     "BBDD furbo.md",
     "Sin título",
     "conflict-files-obsidian-git.md",
-    "Sin título 1",
     "2023-12-18.md",
     "Sin título.canvas"
   ]
