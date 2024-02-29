@@ -55,6 +55,7 @@ Cierre patronal: Consiste en la suspensión colectiva del trabajo y del cierre d
 - O que el volumen de inasistencia o las irregularidades en el trabajo impidan gravemente el proceso normal de producción.
 
 MÉTODOS EXTRAJUDICIALES DE RESOLUCIÓN DE CONFLICTOS
+>PREGUNTA DE EXAMEN
 - CONCILIACIÓN: Las partes tratan de llegar a un acuerdo ante un 3º imparcial, el conciliador, que simplemente les exhorta a llegar a un acuerdo, ni resuelve ni propone. (SMAC).
 - MEDIACIÓN: El mediador, presenta informaciones y propuestas de solución no vinculantes; no resuelve el conflicto sólo facilita la negociación.
 - ARBITRAJE: Las partes en conflicto acuerdan voluntariamente someter sus controversias a la decisión de un tercero neutral y aceptan la solución que dicte, el laudo arbitral es de obligado cumplimiento.
