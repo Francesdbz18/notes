@@ -15,3 +15,5 @@ Incap temporal: duración de 365 dias prorrogables por otros 180 si se presume q
 https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/duracion-prestacion-contributiva.html
 
 Situación asimilada al alta: denunciar a la AL y se considera como tal. Meses cuentan como cotizados.
+
+Viudedad: 500 días trabajados en los últimos 6 años.
