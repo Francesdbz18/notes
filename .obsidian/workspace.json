@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0f64c154edb33675",
+            "id": "22fafbeb99f82aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "22fafbeb99f82aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOL/FOL Tema 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba426921059ae93e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Orientada a Objetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos.md",
+                "file": "SSII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos.md",
+                "file": "SSII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos.md"
+                "file": "SSII.md"
               }
             }
           }
@@ -183,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba426921059ae93e",
+  "active": "22fafbeb99f82aa7",
   "lastOpenFiles": [
+    "FOL/FOL Tema 7.md",
     "SSII.md",
     "Programación Orientada a Objetos.md",
     "FOL/Preguntas FOL.md",
     "FOL/FOL Tema 6.md",
     "FOL/FOL Tema 5.md",
-    "FOL/FOL Tema 7.md",
     "FOL/FOL Ejercicios.md",
     "BBDD/pokemon (1) (1).sql",
     "BBDD/futbol.sql",
