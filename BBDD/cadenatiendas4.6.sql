@@ -41,6 +41,7 @@ CREATE TABLE empleado (
 );
 
 alter table tienda add column ciudad varchar(20);
+DESCRIBE tienda;
 ALTER TABLE cadenatiendas.tienda MODIFY COLUMN codpostal INT NOT NULL;
 alter table fabricante drop column nif;
 alter table fabricante add column dni int;
