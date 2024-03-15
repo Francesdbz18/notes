@@ -7,4 +7,6 @@ Enfermedad profesional: Desde el punto de vista legal, la Seguridad Social sólo
 Accidente de trabajo in itinere: son los que sufre el trabajador al ir o volver del lugar de trabajo. Requisitos:
 - Que la finalidad principal del viaje sea ir o volver del trabajo al domicilio habitual.
 - Que se produzca dentro del tiempo prudencial que normalmente se invierta en el trayecto.
-- Que no haya interrupciones temporales que rompan el nexo causal de la ida o la vuelta al trabajo
+- Que no haya interrupciones temporales que rompan el nexo causal de la ida o la vuelta al trabajo.
+- Que suceda durante el recorrido habitual.
+Estos requisitos son flexibles, habiéndose llegado a considerar como domicilio habitual el del fin de semana, o como trayecto habitual el camino no utilizado a diario por el trabajador porque estaba cortado por una manifestación. El Tribunal Supremo ha dicho que si el trabajador se estaba arreglando para ir a trabajar y sufre un accidente en su domicilio, no se considera accidente de trabajo, sin embargo, si sucede en la zona comunitaria del edificio se considerará un accidente de trabajo.
