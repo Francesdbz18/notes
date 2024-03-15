@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSII.md",
+                "file": "BBDD/Bases de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSII.md",
+                "file": "BBDD/Bases de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSII.md",
+                "file": "BBDD/Bases de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSII.md"
+                "file": "BBDD/Bases de Datos.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "22fafbeb99f82aa7",
   "lastOpenFiles": [
+    "BBDD/Fevoli_Chacon_Francesco_tarea2.pdf",
+    "BBDD/Bases de Datos.md",
+    "SSII.md",
+    "BBDD/Solucion6_2.sql",
     "FOL/FOL Tema 8.md",
     "FOL/FOL Tema 7.md",
     "FOL/FOL Tema 6.md",
     "FOL/Preguntas FOL 2.md",
-    "SSII.md",
     "Programación Orientada a Objetos.md",
     "FOL/FOL Tema 5.md",
     "FOL/FOL Ejercicios.md",
@@ -177,9 +180,7 @@
     "BBDD/cadenatiendas4.6.sql",
     "BBDD/53.sql",
     "BBDD",
-    "BBDD/Bases de Datos.md",
     "Untitled",
-    "FOL",
     "LDM práctica.md",
     "SQL.md",
     "TODO (programación).md",
