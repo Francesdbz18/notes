@@ -74,7 +74,7 @@ select ename, job from emp where deptno = 30 and job not like "Salesman";
 -- 5 --
 select ename, job from emp where deptno = 10 and job not like "Manager" and job not like "President";
 -- 6 --
-select ename, job from emp where deptno = 30 and job not like "Salesman"; #?
+select ename, job, deptno from emp where deptno > 20 and (job like "Analyst" or job like "Clerk" or job like "Manager" or job like "President");
 -- 7 --
 select * from emp where HIREDATE between '1981-01-01' and '1981-12-31';
 -- 8 --
@@ -94,7 +94,7 @@ select concat(ename,' is a ',job) from emp;
 -- 15 --
 select * from emp where mgr not like 7782 and mgr not like 7839;
 -- 16 --
-select ename, sal, round(sal*1.25,2) from emp;
+select ename, sal, round(sal*1.0125,2) as aumento from emp;
 -- 17 --
 select avg(comm) from emp;
 -- 18 --
