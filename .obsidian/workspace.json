@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOL/Preguntas FOL 2.md",
+                "file": "FOL/FOL Tema 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOL/Preguntas FOL 2.md",
+                "file": "FOL/FOL Tema 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOL/Preguntas FOL 2.md",
+                "file": "FOL/FOL Tema 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOL/Preguntas FOL 2.md"
+                "file": "FOL/FOL Tema 9.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "79f10248f167dc04",
   "lastOpenFiles": [
+    "FOL/Preguntas FOL 2.md",
     "FOL/FOL Tema 9.md",
     "BBDD/Fevoli_Chacon_Francesco_tarea2.pdf",
     "BBDD/Bases de Datos.md",
@@ -206,7 +207,6 @@
     "FOL/FOL Tema 7.md",
     "FOL/FOL Tema 8.md",
     "BOE.md",
-    "FOL/Preguntas FOL 2.md",
     "BBDD/Script-3.sql",
     "SSII.md",
     "BBDD/Solucion6_2.sql",
