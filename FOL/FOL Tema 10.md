@@ -9,3 +9,5 @@ Si una persona se encuentra mareada, debe sentarse y meter la cabeza entre sus p
 Navajazos graves en el tórax no lisos: puede producirse un neumotórax.
 
 Navajazos graves en el abdomen: vendar con telas mojadas.
+
+Hemorragias: internas, externas y exteriorizadas.
