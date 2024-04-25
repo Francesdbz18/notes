@@ -17,3 +17,7 @@ En caso de hemorragia interna:
 - Tumbar en el suelo y levantar ligeramente las piernas.
 
 Hemorragia exteriorizada: hemorragia interna que sale por conductos del cuerpo. Se debe facilitar la salida de la sangre de dicha hemorragia en la medida de lo posible.
+
+Hemorragia externa: La primera capa puesta sobre la herida no se debe remover, ya que gracias a esta se forman los factores de coagulación. 
+En caso de posible desangramiento, presionar por encima del codo la arteria contra el hueso para intentar parar el sangrado. 
+Se hacen torniquetes sólo en caso de amputación o aplastamiento. 
