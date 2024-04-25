@@ -16,4 +16,4 @@ En caso de hemorragia interna:
 - Comprobar: pálido, frío, inconsciente, pulso rápido y flojo, respiración rápida y floja.
 - Tumbar en el suelo y levantar ligeramente las piernas.
 
-Hemorragia exteriorizada: hemorragia interna que sale por conductos del cuerpo. Se debe drenar dicha hemorragia en la medida de lo posible.
+Hemorragia exteriorizada: hemorragia interna que sale por conductos del cuerpo. Se debe facilitar la salida de la sangre de dicha hemorragia en la medida de lo posible.
