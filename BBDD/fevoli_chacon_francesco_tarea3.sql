@@ -17,10 +17,10 @@ where salary > 10000
 order by Salario_Total;
 
 #3. Mostrar un listado con el código de empleado, fecha de contratación en formato ‘DDMMM-YY’ y una columna que muestre si el día uno de febrero de 2015 llevaba más de 2 años y tres meses con el nombre de columna “BONUS”, indicando "BONUS" en el caso de tener o "NO" en caso contrario para todos los empleados que ganen más de 12000 y hayan entrado antes del 1 de mayo de 2015. 
-SELECT employee_id AS Código, DATE_FORMAT(hire_date, '%d%b-%y') AS Fecha_Contratación,
-IF(DATE_ADD(hire_date, INTERVAL 15 MONTH) < '2015-02-01', 'BONUS', 'NO') AS BONUS
-FROM employee
-WHERE salary > 12000 AND hire_date < '2015-05-01';
+select employee_id as Código, date_format(hire_date, '%d%b-%y') as Fecha_Contratación,
+if(date_add(hire_date, INTERVAL 15 MONTH) < '2015-02-01', 'BONUS', 'NO') as BONUS
+from employee
+where salary > 12000 AND hire_date < '2015-05-01';
 
 #4. Mostrar un listado que muestre el código de empleado, apellido, salario y una columna que se llame “STARS” que muestre una cadena formada por una estrella (asterisco *) por cada 5000 unidades de salario que tiene el empleado (ejemplo: si alguien tiene de salary = 10000, se mostrará en dicha columna **), si gana menos de 5000 debe mostrar la cadena ‘#’. Ordenar el resultado de mayor a menor salario (salary). 
 select employee_id, last_name, salary,
