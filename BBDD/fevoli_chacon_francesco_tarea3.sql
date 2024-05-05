@@ -120,8 +120,7 @@ group by department_name
 having count(employee_id) >= 5 and salAvg > 5000;
 
 #3. Obtener el apellido, nombre de departamento y nombre de país de los empleados que son Manager.
-select e.employee_id as empID,
-e.last_name as Apellido,
+select e.last_name as Apellido,
 d.department_name as Departamento,
 coalesce(c.country_name, 'Sin asignar') as País
 from employee e
