@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16b6224287f4479c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen ENTDAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutoría.md",
+                "file": "Examen ENTDAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutoría.md",
+                "file": "Examen ENTDAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutoría.md"
+                "file": "Examen ENTDAM.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b7995aee042f1ea",
+  "active": "16b6224287f4479c",
   "lastOpenFiles": [
+    "Tutoría.md",
+    "Examen ENTDAM.md",
     "BBDD/fevoli_chacon_francesco_tarea3.sql",
     "FOL/FOL Tema 9.md",
-    "Tutoría.md",
     "FOL/FOL Tema 10.md",
     "FOL/FOL Tema 8.md",
     "FOL/Preguntas FOL 2.md",
@@ -185,7 +198,6 @@
     "BBDD/creacionpub.sql",
     "BBDD/ayayyayaay.txt",
     "BBDD/cadenatiendas4.6.sql",
-    "BBDD/53.sql",
     "LDM práctica.md",
     "SQL.md",
     "TODO (programación).md",
