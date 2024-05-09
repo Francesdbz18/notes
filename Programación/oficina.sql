@@ -14,4 +14,6 @@ create table if not exists empleados (
 	);
 
 
-create user 'bdAdmin'@'192.168.80.25'
+create user 'bdAdmin'@'192.168.80.24' identified by 'BDAdmin1!';
+grant all privileges on prueba.* to 'bdAdmin'@'192.168.80.24';
+flush privileges;
