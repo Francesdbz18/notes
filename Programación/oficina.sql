@@ -13,9 +13,19 @@ create table if not exists empleados (
 	salario double
 	);
 
+create table if not exists empleadosAntiguos (
+	nombre varchar(20),
+	apellido varchar(20),
+	fechaNacimiento date,
+	fechaIngreso date,
+	puesto varchar(20),
+	salario double,
+	fechaSalida date
+	);
+
 -- insertar desde empleados.csv -- 
 
-create user 'bdAdmin'@'192.168.80.24' identified by 'BDAdmin1!';
+-- create user 'bdAdmin'@'192.168.80.24' identified by 'BDAdmin1!'; --
 grant all privileges on oficina.* to 'bdAdmin'@'192.168.80.24';
 flush privileges;
 
