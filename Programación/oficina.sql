@@ -26,6 +26,6 @@ create table if not exists empleadosAntiguos (
 -- insertar desde empleados.csv -- 
 
 -- create user 'bdAdmin'@'192.168.80.24' identified by 'BDAdmin1!'; --
-grant all privileges on oficina.* to 'bdAdmin'@'192.168.80.24';
-flush privileges;
+#grant all privileges on oficina.* to 'bdAdmin'@'192.168.80.24';
+#flush privileges;
 
