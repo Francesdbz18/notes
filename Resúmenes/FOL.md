@@ -10,7 +10,7 @@ Salud, según la OMS: estado de completo bienestar físico, mental y social.
 	- In itinere: al ir o volver del lugar de trabajo. Requisitos (flexibles):
 		- Finalidad del viaje: ir o volver del trabajo al domicilio habitual.
 		- Producido durante el tiempo prudencial normal del viaje.
-		- Sin interrupciones que impidan la ida o vuelta del trabajo.
+ 		- Sin interrupciones que impidan la ida o vuelta del trabajo.
 		- En el recorrido habitual.
 	- En misión: en desplazamientos requeridos para cumplir con el trabajo.
 	- Acto de salvamento: Acciones para salvar a personas en peligro que estén conectadas al centro de trabajo.
