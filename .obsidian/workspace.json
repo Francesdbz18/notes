@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resúmenes/FOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resúmenes/FOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Resúmenes/FOL.md"
               }
             }
           }
@@ -157,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f0331787cfe00ce",
+  "active": "cf0d3e83743d721d",
   "lastOpenFiles": [
-    "Resúmenes/FOL.md",
     "conflict-files-obsidian-git.md",
+    "Resúmenes/FOL.md",
     "FOL/FOL Tema 10.md",
     "FOL/FOL Tema 9.md",
     "FOL/FOL Tema 8.md",
