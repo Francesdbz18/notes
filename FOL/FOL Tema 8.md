@@ -43,7 +43,3 @@ Depresión: Es una tristeza profunda en la que suelen coincidir una inhibición 
 ###### Examen: Jueves 16 de mayo, 13:25. Aula A4-1.3 
 ###### Convocatoria ordinaria: Última semana de mayo
 ###### Convocatoria extraordinaria: Mediados de junio
-
-### Derechos y deberes en PRL
-
-

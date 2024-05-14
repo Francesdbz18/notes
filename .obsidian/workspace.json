@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen ENTDAM.md",
+                "file": "FOL/FOL Tema 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf0d3e83743d721d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resúmenes/FOL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examen ENTDAM.md",
+                "file": "Resúmenes/FOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examen ENTDAM.md",
+                "file": "Resúmenes/FOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examen ENTDAM.md"
+                "file": "Resúmenes/FOL.md"
               }
             }
           }
@@ -146,24 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d31185d451cf204a",
+  "active": "cf0d3e83743d721d",
   "lastOpenFiles": [
-    "SSII.md",
-    "Examen ENTDAM.md",
-    "BBDD/Fevoli_Chacon_Francesco_tarea2.pdf",
-    "Programación/Programación RW.md",
-    "Programación/Programación Orientada a Objetos.md",
     "FOL/FOL Tema 10.md",
-    "FOL/Preguntas FOL 2.md",
-    "FOL/FOL Tema 8.md",
+    "Resúmenes/FOL.md",
     "FOL/FOL Tema 9.md",
+    "FOL/FOL Tema 8.md",
+    "Resúmenes/ENTDAM.md",
+    "Resúmenes/SI.md",
+    "FOL/FOL Tema 7.md",
+    "FOL/FOL Tema 6.md",
+    "FOL/FOL Tema 5.md",
+    "FOL/FOL Ejercicios.md",
+    "Resúmenes",
+    "Programación/Programación RW.md",
+    "Examen ENTDAM.md",
+    "SSII.md",
+    "BBDD/Fevoli_Chacon_Francesco_tarea2.pdf",
+    "Programación/Programación Orientada a Objetos.md",
+    "FOL/Preguntas FOL 2.md",
     "Programación/Tutoría.md",
     "BBDD/fevoli_chacon_francesco_tarea3.sql",
     "BBDD/Bases de Datos.md",
-    "FOL/FOL Tema 5.md",
-    "FOL/FOL Ejercicios.md",
-    "FOL/FOL Tema 6.md",
-    "FOL/FOL Tema 7.md",
     "BOE.md",
     "BBDD/Script-3.sql",
     "BBDD/Solucion6_2.sql",
@@ -172,7 +189,6 @@
     "BBDD/creacion_tablas.sql",
     "BBDD/creacionpub.sql",
     "BBDD/ayayyayaay.txt",
-    "BBDD/cadenatiendas4.6.sql",
     "LDM práctica.md",
     "SQL.md",
     "TODO (programación).md",
