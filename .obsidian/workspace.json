@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resúmenes/FOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resúmenes/FOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resúmenes/FOL.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -159,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0d3e83743d721d",
+  "active": "7f0331787cfe00ce",
   "lastOpenFiles": [
-    "FOL/FOL Tema 10.md",
     "Resúmenes/FOL.md",
+    "conflict-files-obsidian-git.md",
+    "FOL/FOL Tema 10.md",
     "FOL/FOL Tema 9.md",
     "FOL/FOL Tema 8.md",
     "Resúmenes/ENTDAM.md",
@@ -193,7 +192,6 @@
     "SQL.md",
     "TODO (programación).md",
     "BBDD furbo.md",
-    "conflict-files-obsidian-git.md",
     "2023-12-18.md",
     "Sin título.canvas"
   ]
