@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSII.md",
+                "file": "Examen ENTDAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSII.md",
+                "file": "Examen ENTDAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSII.md",
+                "file": "Examen ENTDAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSII.md"
+                "file": "Examen ENTDAM.md"
               }
             }
           }
@@ -159,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f0331787cfe00ce",
+  "active": "cf0d3e83743d721d",
   "lastOpenFiles": [
+    "Tareaa Sistemas.pkt",
+    "BBDD/Tareaa Sistemas.pkt",
     "Resúmenes/FOL.md",
+    "FOL/FOL Tema 9.md",
     "conflict-files-obsidian-git.md",
     "FOL/FOL Tema 10.md",
-    "FOL/FOL Tema 9.md",
     "FOL/FOL Tema 8.md",
     "Resúmenes/ENTDAM.md",
     "Resúmenes/SI.md",
@@ -189,7 +191,6 @@
     "BBDD/futbol.sql",
     "BBDD/creacion_tablas.sql",
     "BBDD/creacionpub.sql",
-    "BBDD/ayayyayaay.txt",
     "LDM práctica.md",
     "SQL.md",
     "TODO (programación).md",
