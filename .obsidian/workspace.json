@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOL/FOL Tema 10.md",
+                "file": "Resúmenes/FOL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOL/FOL Tema 10.md",
+                "file": "Resúmenes/FOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOL/FOL Tema 10.md",
+                "file": "Resúmenes/FOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOL/FOL Tema 10.md"
+                "file": "Resúmenes/FOL.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "cf0d3e83743d721d",
   "lastOpenFiles": [
-    "FOL/FOL Tema 9.md",
     "FOL/FOL Tema 8.md",
-    "Resúmenes/FOL.md",
     "FOL/FOL Tema 10.md",
+    "FOL/FOL Tema 9.md",
+    "Resúmenes/FOL.md",
     "Resúmenes/SI.md",
     "Resúmenes/ENTDAM.md",
     "Examen ENTDAM.md",
