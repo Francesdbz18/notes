@@ -43,4 +43,17 @@ join emp e2 on e2.DEPTNO = e.deptno
 where e2.EMPNO != e.EMPNO
 group by e.deptno;
 
--- ta mal ;(
+
+
+#Mostrar el nombre y el trabajo con el formato ‘nombre, trabajo’ y eliminando los posibles espacios en blancos que existan 
+#delante del nombre y 
+#el salario de los empleados que tienen el salario más alto en su departamento.
+SELECT 
+	CONCAT(LTRIM(e1.ename), ' ', e1.job) AS full_name,
+	e1.sal
+FROM 
+	emp e1
+LEFT JOIN 
+    emp e2 ON e1.deptno = e2.deptno AND e1.sal < e2.sal
+   WHERE 
+	e2.sal IS NULL;
