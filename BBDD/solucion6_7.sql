@@ -45,9 +45,7 @@ group by e.deptno;
 
 
 
-#Mostrar el nombre y el trabajo con el formato ‘nombre, trabajo’ y eliminando los posibles espacios en blancos que existan 
-#delante del nombre y 
-#el salario de los empleados que tienen el salario más alto en su departamento.
+#Mostrar el nombre y el trabajo con el formato ‘nombre, trabajo’ y eliminando los posibles espacios en blancos que existan delante del nombre y el salario de los empleados que tienen el salario más alto en su departamento.
 SELECT 
 	CONCAT(LTRIM(e1.ename), ' ', e1.job) AS full_name,
 	e1.sal
