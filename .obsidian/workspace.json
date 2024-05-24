@@ -23,11 +23,9 @@
             "id": "cf0d3e83743d721d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SSII.md",
-                "mode": "source",
-                "source": false
+                "file": "Archivado/SISTEMAS INFORMÁTICOS. PRÁCTICA2 (2).pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSII.md",
+                "file": "Archivado/SISTEMAS INFORMÁTICOS. PRÁCTICA2 (2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSII.md",
+                "file": "Archivado/SISTEMAS INFORMÁTICOS. PRÁCTICA2 (2).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSII.md"
+                "file": "Archivado/SISTEMAS INFORMÁTICOS. PRÁCTICA2 (2).pdf"
               }
             }
           }
@@ -161,36 +159,36 @@
   },
   "active": "cf0d3e83743d721d",
   "lastOpenFiles": [
-    "BBDD/EXAMEN3BBDD.sql",
-    "EXAMEN3BBDD.sql",
+    "Archivado/Tarea1_Fevoli_Chacon_Francesco.pdf",
+    "Archivado/tarea12.pdf",
+    "Archivado/UD5 - Modificacion Datos.pdf",
+    "Archivado/Tema 6.3 - CONSULTAS MULTITABLA.pdf",
+    "Archivado/Tema 6.2 - CONSULTAS AGRUPACIONES.pdf",
+    "Archivado/Tema 6.1 - CONSULTAS SIMPLES - FUNCIONES.pdf",
+    "Archivado/SISTEMAS INFORMÁTICOS. PRÁCTICA2 (2).pdf",
+    "Archivado/SISTEMAS INFORMÁTICOS. PRÁCTICA2 (1).pdf",
+    "Archivado/SATA ANDAGI.pdf",
+    "Archivado/resumenlmarc3 (1).pdf",
+    "Archivado/Resumen examen entornos de desarrollo (2).pdf",
+    "SSII.md",
     "Resúmenes/FOL.md",
-    "fevoli_francesco_tarea3_2_SSII.pkt",
-    "Tareaa Sistemas.pkt~",
-    "BBDD/solucion6_7.sql",
     "FOL/FOL Tema 8.md",
     "FOL/FOL Tema 10.md",
     "FOL/FOL Tema 9.md",
     "Resúmenes/SI.md",
     "Resúmenes/ENTDAM.md",
     "Examen ENTDAM.md",
-    "Tareaa Sistemas.pkt",
-    "BBDD/Tareaa Sistemas.pkt",
     "conflict-files-obsidian-git.md",
     "FOL/FOL Tema 7.md",
     "FOL/FOL Tema 6.md",
     "FOL/FOL Tema 5.md",
     "FOL/FOL Ejercicios.md",
-    "Resúmenes",
     "Programación/Programación RW.md",
-    "SSII.md",
-    "BBDD/Fevoli_Chacon_Francesco_tarea2.pdf",
     "Programación/Programación Orientada a Objetos.md",
     "FOL/Preguntas FOL 2.md",
     "Programación/Tutoría.md",
-    "BBDD/fevoli_chacon_francesco_tarea3.sql",
     "BBDD/Bases de Datos.md",
     "BOE.md",
-    "BBDD/Script-3.sql",
     "LDM práctica.md",
     "SQL.md",
     "TODO (programación).md",
