@@ -1,0 +1,89 @@
+1.	Muestra los números de departamento, número de empleados, máximo salario, mínimo salario y salario medio de cada uno de los departamentos.
+
+
+select deptno as departamento, count(*) as numeroEmpleados, max(sal) as maximo, min(sal) as minimo, avg(sal) as media from emp group by deptno 
+
+
+
+2.	Muestra los diversos trabajos y el número total de empleados con cada grupo de trabajo que ganen más de 1500.
+
+select job as oficio, count(*) as numEmpleados from emp where sal > 1500 group by job
+
+
+
+3.	Muestra los números de departamento y el salario total de los departamentos que tengan más de cuatro empleados.
+
+select deptno as departameno, sum(sal) as salarioTotal from emp group by deptno having count(*) > 4
+
+4.	Crear un informe en el que se muestre el número de ‘CLERK’ y ‘SALESMAN’ se han contratado por cada mes del año. El informe debe estar ordenado por el mes del año.
+
+select count(*) as numeroEmpleado, month(hiredate) as meses from emp
+where job in ('CLERK', 'SALESMAN' )
+group by meses
+order by meses asc 
+
+
+5.	Análogamente al anterior, mostrar para cada mes de treinta días cuantos empleados de cada oficio se han contratado.
+
+select count(*) as numeroEmpleado, month(hiredate) as meses from emp
+where month(hiredate) in (4,6,9,11)
+group by meses
+order by meses asc
+
+
+select count(*) as numeroEmpleado, month(hiredate) as meses from emp
+where day(last_day(hiredate))=30 
+group by meses
+order by meses asc 
+
+
+6.	Mostrar un informe que muestre para cada número de letras del nombre de empleado, 
+cuantos empleados hay y su salario medio redondeado a dos decimales.
+
+select length(ename) as longitudNombre,  count(ename) as numEmp, 
+round(avg(sal),2) as media 
+from emp 
+group by longitudNombre 
+
+
+7.	Visualizar los números de departamento con más de tres empleados en cada departamento 
+cuyo gasto salarial total del departamento sea mayor que 10,000.
+
+select deptno, sum(sal) as gastoSalarial
+from emp 
+group by DEPTNO 
+having count(ename) > 3 and sum(sal) > 10000
+
+8.	Mostrar para cada uno de los empleados que tiene subordinados a su cargo 
+que número de subordinados y la suma total de sus salarios.
+El listado debe mostrar las cantidades formateadas y debe estar ordenado por número de subordinados descendentemente.
+
+
+
+
+select mgr as Jefe, count(ename) as numSubordinados, sum(sal) as sumaSalario
+from emp
+where mgr is not null 
+group by jefe
+order by count(ename) desc
+
+
+9.	Mostrar cuantos empleados de cada departamento tienen superior.
+
+select deptno, count(*) as numero
+from emp 
+where mgr is not null 
+group by DEPTNO 
+
+
+10.	Mostrar cuantos empleados de cada oficio han entrado en cada año. 
+Mostrar el año con cuatro cifras y el listado ordenado 
+por año y por oficio.
+
+select job, year(hiredate)  as año, count(ename) as numeroEmpleados 
+from emp 
+group by job, año
+order by año, job
+
+
+

@@ -1,0 +1,90 @@
+***************************************************CREACION / GESTION DE USUARIOS************************************************************************************************
+sudo cat /etc/passwd (Para ver los usuarios)
+ls (ver lo que hay en el directorio en el que estas)
+ls -l nombre de archivo/directorio (Ver los permisos y tolos archivos(En el caso de haber puesto un directorio)
+ls -d /home/*/ (Para ver todos los dirctorios de home)
+touch nombre de archivo.txt (crear un archivo)
+cat (ver lo que hay en el archivo/direccion que has puesto tras el cat)
+sudo (actuar como root)
+cut -d -f1 /etc/passwd>nombre_usuarios.txt (Obtienes una lista de los usuarios)
+id nombreusuario (ver el id de cada grupo que pertenece el usuario)
+sudo useradd -d direccion del donde quieres crear el directorio -m nombre de usuario (Crear un usuario)
+sudo passwd nombre del usuario (Cambia la contraseña o la establece codificada)
+sudo openssl passwd la contraseña que quieres (Crea la codificacion de una contraseña especifica para luego pegarla despues de -p y asignara la contraseña codificada.Aunque lo mas normal es poner este comando(sin sudo) con $ y entre parentesis despues del-p)
+su nombre de usuario (Hacerse pasar por otro usuario)
+chown  nombre de usuario y/o nombre de grupo con : al principio  ruta de acceso al directorio (Cambia el propietario o propietarios de un directorio)
+whoami (Te dice que usuario eres)
+chmod el numero en octal de permisos que queremos(espacio) nombre del fichero (Es para modificar permisos de un archivo)
+chmod destinatrio ([user(u)] [group (g)] [other(o)]) modificacion (añadir (+) dar(=) quitar(-) ) permisos ([r] [w] [x] [s] [t]) (Modificar permisos más complejo)
+sudo passwd -l nombre de usuario (Deshabilitar el usuario)
+sudo passwd -u nombre de usuario (Habilitar el usuario)
+pwd (Te dice donde estas)
+(El primer usuario lo pone)sudo chown nombre del usuario que quiero darle permiso (espacio) nombre de la direccion que doy el permiso (sirve para dar permisos a otros usuarios)
+ sudo addgroup  nombre de grupo (Para crear un grupo)
+sudo adduser nombre del usuario  nombre de grupo (Para añadir un usuario a un grupo)
+sudo  deluser usuario grupo (Elimino de un grupo al usuario puesto)
+sudo chage -M <dias> usuario (Cambio la caducidad de una contraseña)
+sudo chage -W <dias> usuario (Doy un aviso de caducidad de contraseña)
+sudo chage -E año-mes-día usuario (Establezco la fecha de caducidad del usuario y su contraseña)
+sudo chage -I <dias> usuario (Establezco los días en los que se desactive si el no se ingresa a el)
+sudo change -l usuario (Hacemos una visualizacion de la configuracion actual del usuario)
+umask (Ver la mascara)
+umask cuatro numeros en octal (Asignamos la mascara)
+rm (Borrar fichero)
+rmdir (Borrar directorio)
+env/printenv (ver todas las variables con sus valores)
+echo $nombre de la variable en mayusculas (vemos los valores de la variable que he puesto)
+nombrevariable = valordado (Creamos variable local)
+unset nombrevariable (Eliminamos variable)
+set (Vemos variables locales)
+export nombredeVariable (Comvertir a global una variabler local)
+alias nombre= comando entre ' (Creamos un comando para que haga lo que queramos)
+nano ~/.bashrc (Si editamos esto y ponemos el comando alias  se nos guarda permanente. Para poner un comentario es un #)
+sudo chfn usuario (Insertamos con menu la informacion del usuario)
+sudo chfn -f "Nombre completo" -o "Telefono Otro" -h "Telefono casa" -w "Telefono trabajo" usuario(Insertamos sin menu la informacion del usuario)
+getent passwd usuario (Ver la informacion de un usuario)
+getent <lugar donde quieres obtener la informacion> <nombre de usuario o la palabra que quieres buscar> (Realizas una consulta/busqueda en un lugar especifico de una cosa especifica)
+for in nombres de usuarios en orden; do instrucion $user; done (Una estructura for para ejecutar un comando varias veces)
+***********************************************GESTION DE PROCESOS **************************************************************************************************
+history (Ver el historial de comandos)
+ps -l (Obtenemos informacion de procesos que se acaban de ejecutar)
+ps -ef (Obtenemos informacion  de todos los procesos del sistema)
+tty (Obtenemos informacion de la pantalla)
+top (Obtenemos informacion en tiempo real (q para salir del comando))
+fg(Obtemos la ejecucion de un comando de segundo plano a primer plano)
+jobs (Ultimas tareas que han pasado)
+bg (Mandar a bg el proceso)
+kill -9 numero de la tarea (Elimino una tarea)
+sleep (Suspende el pront la cantida de segundos que quieras con ctr+c lo termino y con ctr+z lo detengo)
+nice (mostrar prioridad)
+nice -n numero de nice que quiere que tenga comando >/dev/null& (Dar un valor de nice)
+sudo renice prioridad -p numero identificario -u nombre de usuario (Modificar la prioridad)
+kill nombre de la señal (Mandar señales para ser controlados por el SO)
+kill -2 nombre del Identificador del proceso (Interumpimos el proceso)
+kil -SIGSTOP PID (Pausamos el proceso)
+kill -SIGCONT PID (Continuar el proceso)
+sudo apt install at una fecha -f un fichero (Programar una tarea a una horas)
+at fecha(Programas una cosa a una hora despues de ejecutarlo pones la tarea ctrl+D para salir)
+at + minutos (Programar una tarea para tantos minutos)
+batch < tareas (Para programar un comando como se pueda)
+systemctl start cron (Activar el comando cron)
+*********************************************************************************************** 
+Ejemplos:• Minuto 3 de cada hora y cada día de todos los meses y todos los días de la semana. *
+ 03 *** *orden                                                                                *
+• Cada horaenpuntotodoslosdomingos.                                                           *
+ 00 * * * 0 orden                                                                             * 
+• Cada tresminutos, empezandoporelminuto3delashoras2,5,8,etc.del4deabrilque seajueves.        *
+ 3/3 2/3 4 4 4 orden                                                                          *
+• Alas 18:30 del día 20 de cada mes desde enero a junio.                                      * 
+ 30 18 20 1-6 *orden                                                                          *
+• Alas 06:45 de los días impares de cada mes que sean lunes, miércoles o viernes.             *
+ 45 06 1/2*1,3,5orden                                                                         *
+ • Cada 15 minutos de 10 a 14 horas todos los sábados.                                        *
+ */1510-14* *6 orden                                                                          *
+ • Alas 08:10, 08:30 y 08:45 cada dos días y cada mes.                                        *
+* 10,30,45 08 */2 * * orden                                                                   *
+***********************************************************************************************
+crontab -e (Editar /etc/crontab)
+crontab -l (Visualizar crontab)
+crontab -r (Eliminar orden)
+********************************************************************************************************************

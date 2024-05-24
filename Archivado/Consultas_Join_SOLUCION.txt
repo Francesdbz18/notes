@@ -1,0 +1,139 @@
+1.	Mostrar el nombre y salario de todos los empleados que trabajan en Chicago.
+
+select e.ename, e.sal, d.loc from emp e join dept d on (e.deptno = d.deptno) where d.loc = 'Chicago'
+select e.ename, e.sal, d.loc from emp e join dept d using (deptno) where d.loc = 'Chicago'
+select e.ename, e.sal, d.loc from emp e natural join dept d  where d.loc = 'Chicago'
+
+2.	Mostrar el nombre, el oficio y el nombre de departamento en que trabajan de 
+todos los empleados que ganan en un salario entre 1500 y 2000.
+
+select e.ename, e.job, d.dname from emp e join dept d on (e.deptno = d.deptno) where e.sal between 1500 and 2000
+
+3.	Mostrar las parejas de empleados cuyo primer componente es un MANAGER y 
+cuya suma de salarios esta entre 3750 y 4000.
+
+##Solucion usando cross join
+
+select e1.ename, e1.job, e2.ename, e2.job, (e1.sal + e2.sal) as sumaSalario
+from emp e1 cross join emp e2
+where e1.job = 'MANAGER'
+and (e1.sal + e2.sal) between 3750 and 4000
+
+
+##Solución usando join on
+
+select e1.ename, e1.job, e2.ename, e2.job, (e1.sal + e2.sal) as sumaSalario
+
+from emp e1 join emp e2 on (e1.empno <> e2.empno) where e1.job = 'MANAGER'
+and (e1.sal + e2.sal) between 3750 and 4000
+
+
+
+
+
+4.	Mostrar un resumen de salarios medios de las combinaciones de MANAGER-EMPLEADO 
+(distinto a MANAGER).
+
+select e1.job as manager, e2.job as oficio, avg(e1.sal + e2.sal) as medio
+from emp e1 cross join emp e2
+where e1.job = 'MANAGER'
+group by e1.job, e2.job
+
+
+
+5.	Mostrar un informe que muestre el nombre de empleado, el salario y la 
+categoría salarial indicada con tantos asteriscos como grado salarial de 
+todos los empleados que son SALESMAN
+
+##Usando la función rpad
+select e.ename, e.sal, s.grade, rpad('', s.grade, '*')
+from emp e join salgrade s on (e.sal between s.losal and s.hisal)
+where e.job = 'SALESMAN'
+
+##Usando la función repeat
+select e.ename, e.sal, s.grade, REPEAT('*', s.grade)
+from emp e join salgrade s on (e.sal between s.losal and s.hisal)
+where e.job = 'SALESMAN'
+
+6.	Indicar el nombre y el salario de los empleados que trabajan en DALLAS y 
+que tienen una categoría salarial cuatro.
+
+select e.ename, e.sal from emp e
+join dept d on d.deptno = e.deptno
+join salgrade s on (e.sal between s.losal and s.hisal)
+where d.loc = 'Dallas' and s.grade = 4
+
+7.	Mostrar un informe con el nombre de departamento y el número de empleados que tiene adscrito.
+Deben aparecer todos los departamentos, si no tiene empleados se debe mostrar un cero.
+
+select d.dname, count(e.ename) as numEmpleados
+from dept d  left join emp e on (d.deptno = e.deptno)
+group by d.dname
+
+8.	Mostrar un informe con la categoría salarial, el número de empleados que 
+tienen esa categoría salarial y la suma de los salarios ordenado por categoria salarial.
+Se debe tener en cuenta que es posible que categoría salarial que no la tenga ningún empleado.
+
+select s.grade, count(e.ename), sum(e.sal)
+from salgrade s left join emp e on (e.sal between s.losal and s.hisal)
+group by s.grade
+order by s.grade 
+
+
+9.	Mostrar el un informe que indique cuantos empleados hay en cada ciudad que 
+no tienen personal a su cargo. Deben aparecer todas las ciudades.
+***PISTA: Como primer paso se puede hacer esto, para ver los empleados 
+que no tienen personal a su cargo ***PISTA
+
+##Se hace esta primera consulta para ver cuales NO tienen empleados a su cargo
+##El primer LEFT JOIN es simplemente para quedarse con todos departamentos y todos los empleados
+##El segundo LEFT JOIN (el que más complicación tiene) se usa para quedarse CON TODOS los empleados
+##haya o no haya coincidencia, de hecho lo que importa en esta consulta son los que NO COINCIDEN en
+##según la condición indicada en el ON.
+##En el ON (E2.MGR = E1.EMPNO) lo que trata de buscar son los MANAGERS, es decir,
+##Aquellos donde coincida E2.MGR con E1.EMPNO, quiere decir que esos E2.MGR son los
+##MANAGERs de los E1, de ahí la condición (e1.empno es un manager en E2.MGR), por ello,
+##luego se filtra donde e2.ename sea nulo, porque la condición E2.MGR = E1.EMPNO NO se habrá cumplido
+##y por tanto NO SERÁ MANAGER y no tendrá personal a su cargo
+SELECT
+     E2.ENAME,
+     E1.ENAME,
+     D.LOC
+  FROM DEPT D  LEFT JOIN EMP E1 ON (E1.DEPTNO = D.DEPTNO)
+  LEFT JOIN EMP E2 ON (E2.MGR = E1.EMPNO) where E2.ENAME is null;
+ 
+
+#A continuación la consulta concreta que aporta la solución
+
+select d.loc, count(e1.ename) from 
+dept d left join emp e1
+on (d.deptno = e1.deptno)
+left join emp e2 on (e2.mgr = e1.empno)
+where e2.ename is null
+group by d.loc
+
+
+
+
+
+10.	Mostrar el nombre y categoría salarial de los empleados y sus superiores que cumplen la condición de que ambos trabajen en la misma ciudad.
+
+
+select 
+empleado.ename as nombreEmpleado,
+sEmpleado.grade as categoriaEmpleado,
+dEmpleado.loc as localizacionEmpleado,
+superior.ename as nombreSuperior,
+sSuperior.grade as categoriaSuperior,
+dSuperior.loc as localizacionSuperior
+
+from emp empleado join emp superior on (empleado.mgr = superior.empno)
+join dept dEmpleado on (dEmpleado.deptno = empleado.deptno)
+join dept dSuperior on (dSuperior.deptno = superior.deptno)
+join salgrade sEmpleado on (empleado.sal between sEmpleado.losal and sEmpleado.hisal)
+join salgrade sSuperior on (superior.sal between sSuperior.losal and sSuperior.hisal)
+
+where dEmpleado.loc = dSuperior.loc
+
+
+

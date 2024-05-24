@@ -29,3 +29,5 @@ create user 'bdadmin'@'192.168.80.24' identified by 'BDAdmin1!';
 grant all privileges on oficina.* to 'bdadmin'@'192.168.80.24';
 flush privileges;
 
+select * from empleados;
+
