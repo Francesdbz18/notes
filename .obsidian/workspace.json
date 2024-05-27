@@ -35,11 +35,9 @@
             "id": "22fafbeb99f82aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resúmenes/SI.md",
-                "mode": "source",
-                "source": false
+                "file": "FOL/BASES DE COTIZACIÓN SEGURIDAD SOCIAL (2).pdf"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOL/FOL Tema 7.md",
+                "file": "FOL/BASES DE COTIZACIÓN SEGURIDAD SOCIAL (2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOL/FOL Tema 7.md",
+                "file": "FOL/BASES DE COTIZACIÓN SEGURIDAD SOCIAL (2).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOL/FOL Tema 7.md"
+                "file": "FOL/BASES DE COTIZACIÓN SEGURIDAD SOCIAL (2).pdf"
               }
             }
           }
@@ -171,21 +169,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f0331787cfe00ce",
+  "active": "22fafbeb99f82aa7",
   "lastOpenFiles": [
+    "FOL/TEMA 4. LA NÓMINA. (1).pdf",
+    "Resúmenes/FOL.md",
+    "FOL/BASES DE COTIZACIÓN SEGURIDAD SOCIAL (2).pdf",
+    "FOL/Vigilancia en el trabajo.txt",
+    "FOL/Salario.txt",
+    "FOL/Organización del trabajo.txt",
+    "FOL/Contrato de trabajo.txt",
+    "FOL/FOL Tema 7.md",
+    "FOL/FOL Tema 6.md",
+    "FOL/FOL Tema 5.md",
     "Archivado/Examen PR/Francesco Fevoli Chacón/sumaNegativos/Main.java",
     "Archivado/Examen PR/Francesco Fevoli Chacón/complejo/Main.java",
     "Archivado/Examen PR/Francesco Fevoli Chacón/complejo/Complejo.java",
     "Archivado/Examen PR/Francesco Fevoli Chacón/sumaNegativos",
-    "Archivado/Examen PR/Francesco Fevoli Chacón/complejo",
-    "Archivado/Examen PR/Francesco Fevoli Chacón",
-    "examen.sql",
-    "BBDD/creacionCustomer.sql",
-    "BBDD/Hoja de cálculo sin título.xlsx",
-    "BBDD/Fevoli_Francesco_examenBBDD.sql",
-    "BBDD/EXAMEN3BBDD.sql",
-    "Resúmenes/FOL.md",
-    "FOL/FOL Tema 7.md",
     "Resúmenes/SI.md",
     "Resúmenes/ENTDAM.md",
     "Programación/Tutoría.md",
@@ -201,8 +200,6 @@
     "SSII.md",
     "Programación Orientada a Objetos.md",
     "FOL/Preguntas FOL.md",
-    "FOL/FOL Tema 6.md",
-    "FOL/FOL Tema 5.md",
     "FOL/FOL Ejercicios.md",
     "BBDD/Bases de Datos.md",
     "LDM práctica.md",
