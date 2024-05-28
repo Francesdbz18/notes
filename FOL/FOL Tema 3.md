@@ -1,4 +1,3 @@
-FOL - TEMA 3: LA ORGANIZACIÓN DEL TRABAJO
 Horas extraordinarias:
 - Estructurales:
 - Por fuerza mayor: Reparar siniestros, daños extraordinarios y urgentes, riesgo de pérdida de materias primas.
