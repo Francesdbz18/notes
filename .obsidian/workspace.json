@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d18577ba512cba1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60b6c48c3a37ef18",
+  "active": "2d18577ba512cba1",
   "lastOpenFiles": [
     "FOL/FOL Tema 2.md",
     "FOL/FOL Tema 4.md",
