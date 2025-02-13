@@ -16,7 +16,9 @@
                 "file": "FOL/FOL Tema 4.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "FOL Tema 4"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "FOL/FOL Tema 3.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "FOL Tema 3"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "FOL/FOL Tema 2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "FOL Tema 2"
             }
           },
           {
@@ -52,17 +58,21 @@
                 "file": "FOL/FOL Tema 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "FOL Tema 1"
             }
           },
           {
-            "id": "2d18577ba512cba1",
+            "id": "5d5981951533df2a",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.7"
-              }
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
@@ -85,8 +95,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -101,7 +114,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -109,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -132,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOL/FOL Tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +156,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -149,10 +167,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOL/FOL Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -162,8 +181,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -172,8 +195,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOL/FOL Tema 1.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -193,7 +220,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d18577ba512cba1",
+  "active": "5d5981951533df2a",
   "lastOpenFiles": [
     "FOL/FOL Tema 2.md",
     "FOL/FOL Tema 4.md",
